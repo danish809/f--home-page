@@ -1,0 +1,75 @@
+nav {
+    color: red;
+}
+
+ul {
+    margin: 40px;
+}
+
+li {
+    margin-right: 140px;
+}
+
+.navbar-light .navbar-brand {
+    color: rgb(204, 80, 80);
+}
+
+.carousel {
+    height: 50%;
+    width: 50%;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    position: absolute;
+    top: 100px;
+    right: 100px;
+}
+
+h4 {
+    color: seagreen;
+    position: absolute;
+    top: 300px;
+    right: 60px;
+}
+
+button {
+    position: absolute;
+    top: 240px;
+    right: 150px;
+}
+
+h2 {
+    position: absolute;
+    top: 1040px;
+    left: 30px;
+    color: rgb(212, 134, 31);
+}
+
+p {
+    color: seagreen;
+}
+
+h2 .text-muted {
+    color: rgb(141, 31, 31);
+}
+
+.btn-success {
+    position: absolute;
+    top: 200px;
+    left: 50px;
+}
+
+.feature-col {
+    flex-basis: 25%;
+}
+
+.feature-col img {
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    position: absolute;
+    top: 30px;
+    right: -800px;
+}
